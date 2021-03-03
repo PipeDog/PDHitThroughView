@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PDHitThroughView_Example' do
+  pod 'PDHitThroughView', :path => '../'
+
+  target 'PDHitThroughView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
