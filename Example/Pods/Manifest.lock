@@ -1,0 +1,16 @@
+PODS:
+  - PDHitThroughView (0.1.0)
+
+DEPENDENCIES:
+  - PDHitThroughView (from `../`)
+
+EXTERNAL SOURCES:
+  PDHitThroughView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PDHitThroughView: 7cb5a765f24929659aae4885ac8b79ed04a6225f
+
+PODFILE CHECKSUM: ee013ad323f449f968c05dd4630e94dc75495217
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module PDHitThroughView {
+  umbrella header "PDHitThroughView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_PDHitThroughView_Example {
+  umbrella header "Pods-PDHitThroughView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
